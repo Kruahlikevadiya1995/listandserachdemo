@@ -1,0 +1,224 @@
+
+ {
+  "user_data":[{
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "212 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Nil",
+    "lastName": "Sankh",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "212 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Shyan",
+    "lastName": "Jhonson",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "232 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Johnis",
+    "lastName": "Liz",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "312 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Abhi",
+    "lastName": "Roy",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "21 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "412 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Sina",
+    "lastName": "Sharma",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "26 2nd Street",
+      "city": "Florida",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "512 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Pal",
+    "lastName": "Joeb",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "32 2nd Street",
+      "city": "Las Wegas",
+      "state": "NY",
+      "postalCode": "10021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "112 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Mili",
+    "lastName": "Rathore",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "29 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "30021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "912 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Just",
+    "lastName": "Shyam",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "25 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "40021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "712 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Nik",
+    "lastName": "Loyd",
+    "age": "25",
+    "profileImage": "https://via.placeholder.com/150",
+    "address": {
+      "streetAddress": "23 2nd Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "20021"
+    },
+    "phoneNumber": [
+      {
+        "type": "home",
+        "number": "212 555-1234"
+      },
+      {
+        "type": "fax",
+        "number": "646 555-4567"
+      }
+    ]
+  }]
+ }
+
